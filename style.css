@@ -1,0 +1,22 @@
+button{
+    background-color: black;
+    padding: 10px;
+    color: #fff;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: grey;
+    color: #000;
+}
+
+
+#nameDisplay{
+    padding-top: 20px;
+    font-size: 18px;
+    text-transform: uppercase;
+    
+}
